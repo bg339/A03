@@ -26,7 +26,7 @@
   Step 11 - To push the file, hit control + k and push the file
   ```
   
-  # You are done!
+# You are done!
 
 # Definitions
 
