@@ -1,7 +1,8 @@
 ## Instructions on Using Webstorm!
 
 # Get all your downloads correct:
-'''
+
+```markdown
   Step 1 - Download Webstorm via this link: https://www.jetbrains.com/student/
 
   Step 2 - Download Git via this link: https://git-scm.com/downloads
@@ -23,6 +24,6 @@
   Step 10 - Comitting a file. Right click on the file, select git, and then select commit file from that dropdown menu.
   
   Step 11 - To push the file, hit control + k and push the file
-  '''
+  ```
   
   # You are done!
